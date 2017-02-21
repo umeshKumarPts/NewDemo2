@@ -1,0 +1,6 @@
+D:\BatchModPatFileComp\JournalFileCreation\JournalFileCreation\bin\Debug\JournalFileCreation.exe.config
+D:\BatchModPatFileComp\JournalFileCreation\JournalFileCreation\bin\Debug\JournalFileCreation.exe
+D:\BatchModPatFileComp\JournalFileCreation\JournalFileCreation\bin\Debug\JournalFileCreation.pdb
+D:\BatchModPatFileComp\JournalFileCreation\JournalFileCreation\obj\Debug\JournalFileCreation.exe
+D:\BatchModPatFileComp\JournalFileCreation\JournalFileCreation\obj\Debug\JournalFileCreation.pdb
+D:\BatchModPatFileComp\JournalFileCreation\JournalFileCreation\obj\Debug\JournalFileCreation.csprojResolveAssemblyReference.cache
